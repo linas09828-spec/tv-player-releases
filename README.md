@@ -24,3 +24,11 @@
 
 本 App 仅为播放器外壳，不提供任何内容或源；源和订阅均由使用者自行添加，
 仅存于本机；内容版权归源提供方所有，请合法使用。
+
+
+## Windows 版
+
+[下载 Windows 版安装包（zip）](https://github.com/linas09828-spec/tv-player-releases/raw/main/ZaixianYingshi-win-x64.zip)
+
+解压后双击 ZaixianYingshi.exe。第一次用要先装 .NET 8 桌面运行时（免费，微软官网下载）。
+使用方法和 iOS 版一样：影视 / 直播 / 音乐 / 全球广播，源都由你自己在设置里添加。
