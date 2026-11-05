@@ -4,7 +4,7 @@
 
 ## 下载
 
-在 [Releases](../../releases/download/latest/zaixian-yingshi.ipa) 里下载最新版
+在 [Releases](https://github.com/linas09828-spec/tv-player-releases/raw/main/zaixian-yingshi.ipa) 里下载最新版
 `zaixian-yingshi.ipa`（滚动更新，链接固定），用 TrollStore 或 Sideloadly
 等方式自签安装。
 
