@@ -4,13 +4,13 @@
 
 ## 下载
 
-在 [Releases](https://github.com/linas09828-spec/tv-player-releases/raw/main/zaixian-yingshi.ipa) 里下载最新版
+在 [Releases](https://pub-ef748f44e98d4dc7a41a4af646dfac0f.r2.dev/zaixian-yingshi.ipa) 里下载最新版
 `zaixian-yingshi.ipa`（滚动更新，链接固定），用 TrollStore 或 Sideloadly
 等方式自签安装。
 
 ## 安卓版
 
-[下载安卓版安装包（APK）](https://github.com/linas09828-spec/tv-player-releases/raw/main/ZaixianYingshi-android.apk)
+[下载安卓版安装包（APK）](https://pub-ef748f44e98d4dc7a41a4af646dfac0f.r2.dev/ZaixianYingshi-android.apk)
 
 手机、电视或模拟器上安装：`adb install ZaixianYingshi-android.apk`，
 或直接把 APK 传到设备上点开装。注意：现在是 debug 签名，装新版要先
@@ -18,7 +18,7 @@
 
 ## Windows 版
 
-[下载 Windows 版安装包（zip）](https://github.com/linas09828-spec/tv-player-releases/raw/main/ZaixianYingshi-win-x64.zip)
+[下载 Windows 版安装包（zip）](https://pub-ef748f44e98d4dc7a41a4af646dfac0f.r2.dev/ZaixianYingshi-win-x64.zip)
 
 解压后双击 ZaixianYingshi.exe。第一次用要先装 .NET 8 桌面运行时（免费，微软官网下载）。
 
