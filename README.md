@@ -13,14 +13,20 @@
 [下载安卓版安装包（APK）](https://pub-ef748f44e98d4dc7a41a4af646dfac0f.r2.dev/ZaixianYingshi-android.apk)
 
 手机、电视或模拟器上安装：`adb install ZaixianYingshi-android.apk`，
-或直接把 APK 传到设备上点开装。注意：现在是 debug 签名，装新版要先
-卸旧版（源要重加），正式签名版以后再出。音乐、云盘、KTV 都已接上。
+或直接把 APK 传到设备上点开装。现在是正式签名版，正式版之间可直接
+覆盖安装、源都在。音乐、云盘、KTV 都已接上。
 
 ## Windows 版
 
 [下载 Windows 版安装包（zip）](https://pub-ef748f44e98d4dc7a41a4af646dfac0f.r2.dev/ZaixianYingshi-win-x64.zip)
 
 解压后双击 ZaixianYingshi.exe。第一次用要先装 .NET 8 桌面运行时（免费，微软官网下载）。
+
+## macOS 版
+
+[下载 macOS 版安装包（zip）](https://pub-ef748f44e98d4dc7a41a4af646dfac0f.r2.dev/ZaixianYingshi-mac.zip)
+
+解压后把“在线影视.app”拖进应用程序文件夹，第一次打开右键点它选“打开”。支持 2014 年款 Intel Mac（macOS 12 及以上）。
 
 ## 这是什么
 
